@@ -1,4 +1,2 @@
 #!/bin/bash
-user=$(whoami)
-home_dir=$(eval echo ~$user)
-cd $home_dir
+cd ~
