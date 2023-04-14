@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -alh & ls -alh .. & ls -alh /boot
+echo ".:" & ls -alh & echo "..:" & ls -alh .. & echo "/boot:" & ls -alh /boot
