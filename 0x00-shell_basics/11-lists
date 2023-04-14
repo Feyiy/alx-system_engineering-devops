@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -alh --group-directories-first & ls -alh & ls -alh --group-directories-first .. & ls -alh .. & ls -alh --group-directories-first /boot & ls -alh /boot
+ls -la . .. /boot
